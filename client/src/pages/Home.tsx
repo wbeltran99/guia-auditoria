@@ -18,7 +18,7 @@ export default function Home() {
             </h1>
           </div>
           <p className="text-muted-foreground text-sm md:text-base">
-            Respuestas extensas a preguntas fundamentales sobre auditoría, ISO y normativas
+            Respuestas a preguntas fundamentales sobre auditoría, ISO y normativas
           </p>
         </div>
       </header>
